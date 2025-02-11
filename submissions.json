@@ -1,0 +1,140 @@
+[
+  {
+    "answers": [
+      "19",
+      "Urban",
+      "Mostly Plant-Based",
+      "Often",
+      "Car",
+      "Renewable",
+      "House",
+      "1000",
+      "Sometimes",
+      "Yes",
+      "4",
+      "High",
+      "250",
+      "150",
+      "Male",
+      "Often",
+      "Combination",
+      "High"
+    ],
+    "dateSubmitted": "2024-11-20T15:33:29.611Z"
+  },
+  {
+    "answers": [
+      "19",
+      "Urban",
+      "Mostly Plant-Based",
+      "Often",
+      "Bike",
+      "Renewable",
+      "House",
+      "1000",
+      "Often",
+      "Yes",
+      "4",
+      "High",
+      "500",
+      "150",
+      "Male",
+      "Sometimes",
+      "Combination",
+      "High"
+    ],
+    "dateSubmitted": "2024-11-20T15:34:48.084Z"
+  },
+  {
+    "answers": [
+      "20",
+      "Urban",
+      "Mostly Plant-Based",
+      "Often",
+      "Car",
+      "Renewable",
+      "Apartment",
+      "1000",
+      "Sometimes",
+      "Yes",
+      "5",
+      "High",
+      "150",
+      "1500",
+      "Male",
+      "Sometimes",
+      "Combination",
+      "High"
+    ],
+    "dateSubmitted": "2024-11-20T16:33:36.835Z"
+  },
+  {
+    "answers": [
+      "19",
+      "Urban",
+      "Mostly Plant-Based",
+      "Often",
+      "Car",
+      "Renewable",
+      "Apartment",
+      "1000",
+      "Sometimes",
+      "Yes",
+      "4",
+      "High",
+      "150",
+      "1500",
+      "Male",
+      "Sometimes",
+      "Combination",
+      "High"
+    ],
+    "dateSubmitted": "2024-11-20T18:24:11.734Z"
+  },
+  {
+    "answers": [
+      "20",
+      "Urban",
+      "Mostly Plant-Based",
+      "Often",
+      "Bike",
+      "Non-Renewable",
+      "Apartment",
+      "1000",
+      "Sometimes",
+      "No",
+      "5",
+      "Moderate",
+      "100",
+      "500",
+      "Male",
+      "Sometimes",
+      "Combination",
+      "High"
+    ],
+    "dateSubmitted": "2025-01-15T08:32:33.557Z"
+  },
+  {
+    "answers": [
+      "20",
+      "Urban",
+      "Mostly Plant-Based",
+      "Often",
+      "Car",
+      "Renewable",
+      "House",
+      "1000",
+      "Often",
+      "Yes",
+      "5",
+      "Moderate",
+      "100",
+      "100",
+      "Male",
+      "Often",
+      "Combination",
+      "High"
+    ],
+    "dateSubmitted": "2025-01-15T08:45:51.766Z"
+  }
+]
