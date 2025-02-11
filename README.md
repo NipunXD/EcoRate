@@ -1,1 +1,1 @@
-EcoRate - Your Personalised Sustainability Guide
+EcoRate - Your Personalised Path To Sustainable Living
